@@ -17,6 +17,7 @@ A collection of solutions for Frontend Mentor challenges.
 3. Junior
 4. Intermediate
    - [Chat app CSS illustration](https://github.com/sz7kow/chat-app-css-illustration)
+   - [Job listings with filtering](https://github.com/sz7kow/job-listings-with-filtering)
 6. Advanced
 7. Guru
 
