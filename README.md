@@ -1,6 +1,6 @@
 # Frontend Mentor
 
-A collection of solutions for Frontend Mentor challenges.
+A collection of solutions to the Frontend Mentor challenges.
 
 ## Table of contents
 
