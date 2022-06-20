@@ -15,12 +15,13 @@ A collection of solutions for Frontend Mentor challenges.
 1. Newbie
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
    - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
-3. Junior
-4. Intermediate
+2. Junior
+   - [Social media dashboard with theme switcher](https://github.com/sz7kow/social-media-dashboard-with-theme-switcher)
+3. Intermediate
    - [Chat app CSS illustration](https://github.com/sz7kow/chat-app-css-illustration)
    - [Job listings with filtering](https://github.com/sz7kow/job-listings-with-filtering)
-6. Advanced
-7. Guru
+4. Advanced
+5. Guru
 
 ## Author
 - Frontend Mentor - [@sz7kow](https://www.frontendmentor.io/profile/sz7kow)
