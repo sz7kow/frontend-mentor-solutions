@@ -14,6 +14,7 @@ A collection of solutions for Frontend Mentor challenges.
 
 1. Newbie
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
+   - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
 3. Junior
 4. Intermediate
    - [Chat app CSS illustration](https://github.com/sz7kow/chat-app-css-illustration)
