@@ -13,6 +13,7 @@ A collection of solutions for Frontend Mentor challenges.
 ### Solutions
 
 1. Newbie
+   - [NFT preview card component](https://github.com/sz7kow/nft-preview-card-component)
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
    - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
 2. Junior
