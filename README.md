@@ -17,6 +17,7 @@ A collection of solutions to the Frontend Mentor challenges.
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
    - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
 2. Junior
+   - [Pricing component with toggle](https://github.com/sz7kow/pricing-component-with-toggle)
    - [Social media dashboard with theme switcher](https://github.com/sz7kow/social-media-dashboard-with-theme-switcher)
 3. Intermediate
    - [Chat app CSS illustration](https://github.com/sz7kow/chat-app-css-illustration)
