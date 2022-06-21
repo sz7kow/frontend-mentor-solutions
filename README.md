@@ -19,6 +19,7 @@ A collection of solutions to the Frontend Mentor challenges.
    - [Single price grid component](https://github.com/sz7kow/single-price-grid-component)
    - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
 2. Junior
+   - [Fylo data storage component](https://github.com/sz7kow/fylo-data-storage-component)
    - [Pricing component with toggle](https://github.com/sz7kow/pricing-component-with-toggle)
    - [Social media dashboard with theme switcher](https://github.com/sz7kow/social-media-dashboard-with-theme-switcher)
    - [Testimonials grid section](https://github.com/sz7kow/testimonials-grid-section)
