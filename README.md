@@ -14,6 +14,7 @@ A collection of solutions to the Frontend Mentor challenges.
 
 1. Newbie
    - [3-column preview card component](https://github.com/sz7kow/3-column-preview-card-component)
+   - [Article preview component](https://github.com/sz7kow/article-preview-component)
    - [NFT preview card component](https://github.com/sz7kow/nft-preview-card-component)
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
    - [Single price grid component](https://github.com/sz7kow/single-price-grid-component)
