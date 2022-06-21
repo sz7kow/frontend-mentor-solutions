@@ -15,6 +15,7 @@ A collection of solutions to the Frontend Mentor challenges.
 1. Newbie
    - [NFT preview card component](https://github.com/sz7kow/nft-preview-card-component)
    - [Order summary component](https://github.com/sz7kow/order-summary-component)
+   - [Single price grid component](https://github.com/sz7kow/single-price-grid-component)
    - [Stats preview card component](https://github.com/sz7kow/stats-preview-card-component)
 2. Junior
    - [Pricing component with toggle](https://github.com/sz7kow/pricing-component-with-toggle)
