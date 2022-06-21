@@ -21,6 +21,7 @@ A collection of solutions to the Frontend Mentor challenges.
 2. Junior
    - [Pricing component with toggle](https://github.com/sz7kow/pricing-component-with-toggle)
    - [Social media dashboard with theme switcher](https://github.com/sz7kow/social-media-dashboard-with-theme-switcher)
+   - [Testimonials grid section](https://github.com/sz7kow/testimonials-grid-section)
    - [Typemaster pre-launch landing page](https://github.com/sz7kow/typemaster-pre-launch-landing-page)
 3. Intermediate
    - [Chat app CSS illustration](https://github.com/sz7kow/chat-app-css-illustration)
